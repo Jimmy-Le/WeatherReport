@@ -1,3 +1,4 @@
+;Jimmy Le, 40316405
 (ns weather
   (:require [clojure.string :as str]))
 
